@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Galaxy S10e",
+    "codename": "beyond0lte",
+    "brand": "Samsung",
+    "maintainer": "ItzKaguya",
+    "maintainerGithub": "hiratazx",
+    "downloads": [
+      {
+        "version": "3.1-empatbelas",
+        "type": "Official - Nightly",
+        "url": "https://files.itzkaguya.my.id/ShirayukiProject/beyond0lte/ShirayukiProject-3.1-empatbelas-nightly-beyond0lte-signed.zip",
+        "build_date": "2024-08-17"
+      }
+    ]
+  },
+  {
+    "name": "Redmi Note 7",
+    "codename": "lavender",
+    "brand": "Xiaomi",
+    "maintainer": "ItzKaguya",
+    "maintainerGithub": "hiratazx",
+    "downloads": [
+      {
+        "version": "3.1-empatbelas",
+        "type": "Official - Nightly",
+        "url": "https://files.itzkaguya.my.id/ShirayukiProject/lavender/ShirayukiProject-3.1-empatbelas-nightly-lavender-signed.zip",
+        "build_date": "2024-08-17"
+      }
+    ]
+  },
+  {
+    "name": "Realme 5 Pro",
+    "codename": "RMX1971",
+    "brand": "Realme",
+    "maintainer": "Renelzx",
+    "maintainerGithub": "Renelzx",
+      {
+        "version": "3.1-empatbelas",
+        "type": "Official - Nightly",
+        "url": "https://files.itzkaguya.my.id/ShirayukiProject/RMX1971/ShirayukiProject-3.1-empatbelas-nightly-RMX1971-signed.zip",
+        "build_date": "2024-08-17"
+      }
+    ]
+  },
+  {
+    "name": "Galaxy A10s",
+    "codename": "seraphine",
+    "brand": "Samsung",
+    "maintainer": "RissuDesu",
+    "maintainerGithub": "rsuntk",
+    "downloads": [
+      {
+        "version": "3.1-empatbelas",
+        "type": "Official - Nightly",
+        "url": "https://files.itzkaguya.my.id/ShirayukiProject/seraphine/ShirayukiProject-3.1-empatbelas-nightly-seraphine-signed.zip",
+        "build_date": "2024-08-17"
+      }
+    ]
+  },
+  {
+    "name": "POCO F5",
+    "codename": "marble",
+    "brand": "Xiaomi",
+    "maintainer": "ItzKaguya",
+    "maintainerGithub": "hiratazx",
+    "downloads": [
+      {
+        "version": "3.1-empatbelas",
+        "type": "Official - Nightly",
+        "url": "https://files.itzkaguya.my.id/ShirayukiProject/marble/ShirayukiProject-3.1-empatbelas-nightly-marble-signed.zip",
+        "build_date": "2024-08-17"
+      }
+    ]
+  }
+]
